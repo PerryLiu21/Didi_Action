@@ -8,6 +8,7 @@ on:
 env:
   TZ: "Asia/Shanghai"
   TOKENS: ${{ secrets.TOKENS }}
+  TOKEN: ${{ secrets.TOKENS }}
 
 jobs:
   main:
