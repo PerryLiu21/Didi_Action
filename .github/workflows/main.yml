@@ -7,8 +7,8 @@ on:
 
 env:
   TZ: "Asia/Shanghai"
-  TOKENS: ${{ secrets.TOKENS }}
-  TOKEN: ${{ secrets.TOKENS }}
+  TOKENS: "JwtyTaczuQbQ98sJfii2nxniclFJn6rxr2YcIhCQKgckzDlOxEAQheG7_HHJet3Vi6tScu7AYpakkUBElu8-Gs0FvpMlEt-0CWMVshirki6pGcvJMnvUfaq26fswViNlrE7y9IzxQoLxStYIjelNoRku451sxkGe_P38_74dZL-Mj7taXRpVbnySlD56iamIgfH1IL9JXbcAAAD__w=="
+  TOKEN: "JwtyTaczuQbQ98sJfii2nxniclFJn6rxr2YcIhCQKgckzDlOxEAQheG7_HHJet3Vi6tScu7AYpakkUBElu8-Gs0FvpMlEt-0CWMVshirki6pGcvJMnvUfaq26fswViNlrE7y9IzxQoLxStYIjelNoRku451sxkGe_P38_74dZL-Mj7taXRpVbnySlD56iamIgfH1IL9JXbcAAAD__w=="
 
 jobs:
   main:
